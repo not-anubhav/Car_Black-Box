@@ -1,6 +1,6 @@
 # Car_Black-Box
- #/* Description : 
- * 
+
+ Description : 
  * Black Boxes are typically used in any transportation system (ex: Airplanes) that are used for analysis post-crash 
  * and understand the root cause of accidents. Continuous monitoring and logging of events (ex: over-speeding) is critical for 
  * effective usage of black box. 
@@ -26,4 +26,3 @@
  * 
  * SET TIME : Used to Set the HOUR, MINUTE and SECOND By changing and Writing New changed TIME to DS1307, 
    The Selected Fields are Indicated Using the Blinking Black Block on CLCD.
- */
